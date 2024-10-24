@@ -8,12 +8,8 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-<<<<<<< HEAD
-      <HelloWorld msg="hello FrameMark" />
-=======
-      <HelloWorld msg="You did it!" />
->>>>>>> 2feb29e0eb14390386aa0e848b7c7abb215379a0
 
+      <HelloWorld msg="hello FrameMark" />
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
